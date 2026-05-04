@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|f:\\proyect_visual\\portafolio\\pdfgeneratorapp\\pdfgeneratorapp\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|solutionrelative:pdfgeneratorapp\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|f:\\proyect_visual\\portafolio\\pdfgeneratorapp\\pdfgeneratorapp\\templates\\facturaa4_dise\u00F1o2_document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|solutionrelative:pdfgeneratorapp\\templates\\facturaa4_dise\u00F1o2_document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|f:\\proyect_visual\\portafolio\\pdfgeneratorapp\\pdfgeneratorapp\\templates\\facturaticketdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|solutionrelative:pdfgeneratorapp\\templates\\facturaticketdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|f:\\proyect_visual\\portafolio\\pdfgeneratorapp\\pdfgeneratorapp\\templates\\facturaa4document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|solutionrelative:pdfgeneratorapp\\templates\\facturaa4document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|f:\\proyect_visual\\portafolio\\pdfgeneratorapp\\pdfgeneratorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8F17C3-75A2-4F6C-B83D-EE0087405114}|PdfGeneratorApp\\PdfGeneratorApp.csproj|solutionrelative:pdfgeneratorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:471218599:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:938577012:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaA4_Dise\u00F1o2_Document.cs",
+              "DocumentMoniker": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Templates\\FacturaA4_Dise\u00F1o2_Document.cs",
+              "RelativeDocumentMoniker": "PdfGeneratorApp\\Templates\\FacturaA4_Dise\u00F1o2_Document.cs",
+              "ToolTip": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Templates\\FacturaA4_Dise\u00F1o2_Document.cs",
+              "RelativeToolTip": "PdfGeneratorApp\\Templates\\FacturaA4_Dise\u00F1o2_Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:32:52.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfService.cs",
+              "DocumentMoniker": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Services\\PdfService.cs",
+              "RelativeDocumentMoniker": "PdfGeneratorApp\\Services\\PdfService.cs",
+              "ToolTip": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Services\\PdfService.cs",
+              "RelativeToolTip": "PdfGeneratorApp\\Services\\PdfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:05:39.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Program.cs",
+              "RelativeDocumentMoniker": "PdfGeneratorApp\\Program.cs",
+              "ToolTip": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Program.cs",
+              "RelativeToolTip": "PdfGeneratorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:05:36.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaA4Document.cs",
+              "DocumentMoniker": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Templates\\FacturaA4Document.cs",
+              "RelativeDocumentMoniker": "PdfGeneratorApp\\Templates\\FacturaA4Document.cs",
+              "ToolTip": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Templates\\FacturaA4Document.cs",
+              "RelativeToolTip": "PdfGeneratorApp\\Templates\\FacturaA4Document.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:57:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaTicketDocument.cs",
+              "DocumentMoniker": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Templates\\FacturaTicketDocument.cs",
+              "RelativeDocumentMoniker": "PdfGeneratorApp\\Templates\\FacturaTicketDocument.cs",
+              "ToolTip": "F:\\Proyect_Visual\\PORTAFOLIO\\PdfGeneratorApp\\PdfGeneratorApp\\Templates\\FacturaTicketDocument.cs",
+              "RelativeToolTip": "PdfGeneratorApp\\Templates\\FacturaTicketDocument.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T20:23:50.771Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1040,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
